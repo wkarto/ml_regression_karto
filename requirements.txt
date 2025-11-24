@@ -1,0 +1,10 @@
+# Data manipulation
+pandas==2.1.1
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.1
+seaborn==0.12.3
+
+# Scikit-learn for modeling
+scikit-learn==1.3.2
